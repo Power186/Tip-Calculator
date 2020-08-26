@@ -39,6 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Adding a launch screen animation required Apple documentation to implement. Challenging to navigate the docs, but once I found what I was looking for, it was solved.
 
 ## License
 

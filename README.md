@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![tips-walkthrough](https://github.com/Power186/Tip-Calculator/blob/master/Tips.gif)
+![tips-walkthrough]()
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

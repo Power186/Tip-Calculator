@@ -6,7 +6,7 @@
 
 Submitted by: **Scott W.**
 
-Time spent: **2** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
@@ -24,16 +24,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Added launch screen animation.
-- [X] Settings and Navigation Bar.
+- [X] Added launch screen animation with logo.
 - [X] Clear button always visible in bill textfield.
-- [X] Imported image to display a visual of tips.
+- [X] Imported tips image to update UI appearance.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-![tips-walkthrough](https://github.com/Power186/Tip-Calculator/blob/master/Tipz.gif)
+![tips-walkthrough]()
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
